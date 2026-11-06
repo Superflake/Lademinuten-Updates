@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.8.apk",
-  "sha256": "c2d57ccd1b3c5fcfd27ee7be00a2d1189f9856248e51628c0535b0e4c14b3457",
-  "size": 353063,
-  "notes": "Die Pause ist jetzt von Anfang an ins Schichtende eingeplant: 8 Std. ab 18:30 + 30 min Pause = Ende 03:00. Eine längere Pause verschiebt das Ende weiter. Abschaltbar in den Einstellungen."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.9.apk",
+  "sha256": "f76e28b6b27363afec210bec607d114ce65567e4fdedc6f7e462f319fe7e980b",
+  "size": 354211,
+  "notes": "Früher Feierabend: Beendest du die Schicht vor dem Ende, wird die Schichtlänge exakt auf die gearbeitete Zeit (ohne Pausen) angepasst – das Ziel sinkt entsprechend. „Schicht wieder öffnen“ stellt die ursprüngliche Länge wieder her."
 }
