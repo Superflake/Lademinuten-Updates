@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.5.apk",
-  "sha256": "3857ca07b1b61eabb34ca1311d910ce5a698781f339f8ed4253714ba4633376a",
-  "size": 347023,
-  "notes": "Die Pausentaste ist jetzt immer im Schicht-Kästchen zu sehen; vor Schichtbeginn oder bei laufendem LKW ist sie ausgegraut und zeigt den Grund. Pausen zählen nicht als Arbeitszeit und verschieben das Schichtende."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.6.apk",
+  "sha256": "dfbe948322b49f051a49cd32c2f0869d20d1c9d7adb5e732a86ad169aeb529f5",
+  "size": 351779,
+  "notes": "Neu: Bereich „Nebenzeiten“ – Grund antippen (Warten auf LKW, Stapler defekt …), Zeit läuft bis „Beenden“, oder mit Start/Ende/Dauer nachtragen. Nebenzeiten zählen nicht als Arbeitszeit und werden aufs Ziel gutgeschrieben (abschaltbar). Außerdem: „Ziel erreicht um“ und eine Zusammenfassung der letzten Schichten im Verlauf."
 }
