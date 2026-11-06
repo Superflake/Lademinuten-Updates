@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.4.apk",
-  "sha256": "9f2685568f7abd4fda44dab5783e7fd81b1516e5a58ea2241be7caebb144e58e",
-  "size": 346891,
-  "notes": "Pausentaste (Standard 30 Minuten, einstellbar): Während der Pause bleibt die Arbeitszeit stehen, die Prozente ändern sich nicht und das Schichtende verschiebt sich entsprechend. Update-Prüfung holt die Versionsdatei jetzt direkt vom Zweig „main“ (schneller aktuell)."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.5.apk",
+  "sha256": "3857ca07b1b61eabb34ca1311d910ce5a698781f339f8ed4253714ba4633376a",
+  "size": 347023,
+  "notes": "Die Pausentaste ist jetzt immer im Schicht-Kästchen zu sehen; vor Schichtbeginn oder bei laufendem LKW ist sie ausgegraut und zeigt den Grund. Pausen zählen nicht als Arbeitszeit und verschieben das Schichtende."
 }
