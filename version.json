@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/HEAD/Lademinuten-1.3.apk",
-  "sha256": "2c3a2aa9a8603d6d9117261cbe0edbd748c7de62dfae0b8cefebd85e232e714a",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.4.apk",
+  "sha256": "9f2685568f7abd4fda44dab5783e7fd81b1516e5a58ea2241be7caebb144e58e",
   "size": 346891,
-  "notes": "Neu: Pausentaste (Standard 30 Minuten, einstellbar). Während der Pause bleibt die Arbeitszeit stehen, die Prozente ändern sich nicht und das Schichtende verschiebt sich entsprechend."
+  "notes": "Pausentaste (Standard 30 Minuten, einstellbar): Während der Pause bleibt die Arbeitszeit stehen, die Prozente ändern sich nicht und das Schichtende verschiebt sich entsprechend. Update-Prüfung holt die Versionsdatei jetzt direkt vom Zweig „main“ (schneller aktuell)."
 }
