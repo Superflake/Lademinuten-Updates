@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/HEAD/Lademinuten-1.2.apk",
+  "sha256": "dd66fe0e2096ef931b703b292d9ebefd7de6ff593fefcbbc1f9bc829f739506c",
+  "size": 343759,
+  "notes": "Updates kommen jetzt automatisch aus dem öffentlichen Update-Repository. Die App prüft beim Start (frühestens 12 Stunden nach der letzten Prüfung) und jederzeit über Zahnrad → „Nach Update suchen“."
+}
