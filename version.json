@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.7.apk",
-  "sha256": "c152d20d62b8b53261c6dd58bd83147704a19bac7a07331e9aa0d8dc4c7f8992",
-  "size": 352687,
-  "notes": "Gründe für Nebenzeiten selbst festlegen: Zahnrad → „Gründe für Nebenzeiten“ – einzeln hinzufügen oder löschen. Unter „Nebenzeiten“ und beim Nachtragen wählst du den Grund jetzt aus einem Auswahlfeld."
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.8.apk",
+  "sha256": "c2d57ccd1b3c5fcfd27ee7be00a2d1189f9856248e51628c0535b0e4c14b3457",
+  "size": 353063,
+  "notes": "Die Pause ist jetzt von Anfang an ins Schichtende eingeplant: 8 Std. ab 18:30 + 30 min Pause = Ende 03:00. Eine längere Pause verschiebt das Ende weiter. Abschaltbar in den Einstellungen."
 }
