@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.6.apk",
-  "sha256": "dfbe948322b49f051a49cd32c2f0869d20d1c9d7adb5e732a86ad169aeb529f5",
-  "size": 351779,
-  "notes": "Neu: Bereich „Nebenzeiten“ – Grund antippen (Warten auf LKW, Stapler defekt …), Zeit läuft bis „Beenden“, oder mit Start/Ende/Dauer nachtragen. Nebenzeiten zählen nicht als Arbeitszeit und werden aufs Ziel gutgeschrieben (abschaltbar). Außerdem: „Ziel erreicht um“ und eine Zusammenfassung der letzten Schichten im Verlauf."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://raw.githubusercontent.com/Superflake/Lademinuten-Updates/main/Lademinuten-1.7.apk",
+  "sha256": "c152d20d62b8b53261c6dd58bd83147704a19bac7a07331e9aa0d8dc4c7f8992",
+  "size": 352687,
+  "notes": "Gründe für Nebenzeiten selbst festlegen: Zahnrad → „Gründe für Nebenzeiten“ – einzeln hinzufügen oder löschen. Unter „Nebenzeiten“ und beim Nachtragen wählst du den Grund jetzt aus einem Auswahlfeld."
 }
